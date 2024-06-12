@@ -14,3 +14,5 @@ and then copy the folders over to your pico and youre done!
 I have included the lastest Circuit python and all the libs required.
 Feel free to download them yourself from the official links above :)
 
+Download:
+<a href='https://www.mediafire.com/file/p3i2sywd5yhxeg0/picoText2Keyboard.zip/file'>https://www.mediafire.com/file/p3i2sywd5yhxeg0/picoText2Keyboard.zip/file<\a>

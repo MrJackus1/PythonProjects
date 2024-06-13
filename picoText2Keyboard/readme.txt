@@ -16,3 +16,4 @@ Feel free to download them yourself from the official links above :)
 
 Download:
 https://www.mediafire.com/file/p3i2sywd5yhxeg0/picoText2Keyboard.zip/file
+https://mega.nz/file/UD81jC4Q#FjrvgIK7y0P2kw_h6MWxTTs7JGoIkQygF0Lz3gtglwo
